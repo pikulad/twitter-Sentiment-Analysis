@@ -74,5 +74,6 @@ Positive & Negative Words List (To compare Tweets for Sentiment)
 
 ## Contributors
 
-* **Priyank Lad** - *Initial work* - [piku](https://github.com/pikulad)
+* **Priyank Lad** - *Initial work* - [github/pikulad](https://github.com/pikulad)
+* **Zeel Surti** - *Initial work* - [github/zeelsurti](#)
 
