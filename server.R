@@ -9,6 +9,9 @@
 #
 # library(rsconnect)
 # rsconnect::deployApp('/Users/priyanklad/Desktop/Project\ in\ R/Twitter-Sentiment-Analysis-using-R-Shiny-WebApp-master')
+library(base64enc) # fix for twitter oauth in shinyapps.io
+library(SnowballC) # fix for stemming issue in tm
+
 library(shiny)
 
 # Installing package if not already installed 
